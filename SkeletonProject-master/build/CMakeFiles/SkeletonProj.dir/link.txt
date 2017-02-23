@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/SkeletonProj.dir/main.cpp.o CMakeFiles/SkeletonProj.dir/SkeletonProj_generated_kernel.cu.o CMakeFiles/SkeletonProj.dir/SkeletonProj_intermediate_link.o  -o SkeletonProj -rdynamic /usr/local/cuda/lib64/libcudart_static.a -lpthread -ldl -lrt 
